@@ -1,0 +1,45 @@
+Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :supp
+Reply of bot :
+Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :asdas
+Reply of bot : Sorry can't be able to understand you!Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :gm
+Reply of bot : Sorry can't be able to understand you!Sorry can't be able to understand you!
+Query asked by user :sad
+Reply of bot : Sorry can't be able to understand you!Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :sup
+Reply of bot : Sorry can't be able to understand you!
+Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :departments
+Reply of bot :we have
+co
+ele
+civil
+mech
+Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :bye
+Reply of bot :pls fill our feedback form from here
+<a href=http:fb/index.html> feedback
+Query asked by user :hi
+Reply of bot :hello welcome
+Query asked by user :end
+Reply of bot :pls fill our feedback form from here
+<a href=http:fb/index.html> feedback
+Query asked by user :look for this in log ref ffdfgv
+Reply of bot : Sorry can't be able to understand you!
+Query asked by user :board
+Reply of bot :MSBTE 
+Query asked by user :feedback
+Reply of bot : Sorry can't be able to understand you!
+Query asked by user :end
+Reply of bot :pls fill our feedback form from here
+<a href=http:fb/index.html> feedback
+Query asked by user :log check
+Reply of bot : Sorry can't be able to understand you!
