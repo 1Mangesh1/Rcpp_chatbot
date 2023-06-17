@@ -14,7 +14,7 @@ The Rcpp Chatbot is a web application chatbot developed using PHP and designed t
 2. Clone or download the project files and place them in the appropriate directory of your XAMPP installation (e.g., `htdocs` folder).
 3. Start the XAMPP control panel and ensure that the Apache and MySQL services are running.
 4. Import the provided database file (`bot.sql`) into your MySQL database using phpMyAdmin or any other database management tool.
-5. Configure the database connection settings in the `config.php` file.
+5. Configure the database connection settings in the php files.
 
 ## Usage
 
